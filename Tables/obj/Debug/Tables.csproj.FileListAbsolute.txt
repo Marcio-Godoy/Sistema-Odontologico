@@ -1,0 +1,11 @@
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\Tables.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\Tables.pdb
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\obj\Debug\Tables.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\obj\Debug\Tables.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\obj\Debug\Tables.pdb
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\Tables.dll.config
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\EntityFramework.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\EntityFramework.SqlServer.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\EntityFramework.xml
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\bin\Debug\EntityFramework.SqlServer.xml
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Tables\obj\Debug\Tables.csproj.CopyComplete
