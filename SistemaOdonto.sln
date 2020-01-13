@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaOdonto", "SistemaOdonto\SistemaOdonto.csproj", "{DB13C56D-FCF4-498B-BBE8-EBA04B60E9D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{E23991BA-9784-46BC-9B5B-A19A1466EED1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{F08A1447-0E65-4753-A68B-64CCFF8B4B5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controller", "Controller", "{87D22313-AC0F-4F17-8E64-1EFD6C5546F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tables", "Tables", "{370A5F68-01B1-4952-9E0C-392D8D691DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{E4A08B26-694D-4D6C-8924-BE87BCEB40E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables", "Tables\Tables.csproj", "{890FE1CD-4C59-4922-B90C-E4E77D81318B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{34662470-7EA3-46A6-8AC9-C02E85DED216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{3870A4C3-19D5-40F6-BF5E-5005BF754F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB13C56D-FCF4-498B-BBE8-EBA04B60E9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB13C56D-FCF4-498B-BBE8-EBA04B60E9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB13C56D-FCF4-498B-BBE8-EBA04B60E9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB13C56D-FCF4-498B-BBE8-EBA04B60E9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A08B26-694D-4D6C-8924-BE87BCEB40E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A08B26-694D-4D6C-8924-BE87BCEB40E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A08B26-694D-4D6C-8924-BE87BCEB40E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A08B26-694D-4D6C-8924-BE87BCEB40E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890FE1CD-4C59-4922-B90C-E4E77D81318B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890FE1CD-4C59-4922-B90C-E4E77D81318B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890FE1CD-4C59-4922-B90C-E4E77D81318B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890FE1CD-4C59-4922-B90C-E4E77D81318B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34662470-7EA3-46A6-8AC9-C02E85DED216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34662470-7EA3-46A6-8AC9-C02E85DED216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34662470-7EA3-46A6-8AC9-C02E85DED216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34662470-7EA3-46A6-8AC9-C02E85DED216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3870A4C3-19D5-40F6-BF5E-5005BF754F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3870A4C3-19D5-40F6-BF5E-5005BF754F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3870A4C3-19D5-40F6-BF5E-5005BF754F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3870A4C3-19D5-40F6-BF5E-5005BF754F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB13C56D-FCF4-498B-BBE8-EBA04B60E9D7} = {E23991BA-9784-46BC-9B5B-A19A1466EED1}
+		{E4A08B26-694D-4D6C-8924-BE87BCEB40E7} = {87D22313-AC0F-4F17-8E64-1EFD6C5546F7}
+		{890FE1CD-4C59-4922-B90C-E4E77D81318B} = {370A5F68-01B1-4952-9E0C-392D8D691DDB}
+		{34662470-7EA3-46A6-8AC9-C02E85DED216} = {F08A1447-0E65-4753-A68B-64CCFF8B4B5F}
+		{3870A4C3-19D5-40F6-BF5E-5005BF754F8C} = {F08A1447-0E65-4753-A68B-64CCFF8B4B5F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AFB053D-DEB7-43B3-A996-A5A919BF7D18}
+	EndGlobalSection
+EndGlobal
