@@ -1,0 +1,16 @@
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\Controllers.dll.config
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\Controllers.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\Controllers.pdb
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\EntityFramework.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\Tables.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\Tables.pdb
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\EntityFramework.xml
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\obj\Debug\Controllers.dll
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\obj\Debug\Controllers.pdb
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\bin\Debug\Tables.dll.config
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\obj\Debug\Controllers.Migrations.Banco.resources
+D:\BACKUPS\Cursos\Cursos Udemy\C# com Entity Framework\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
